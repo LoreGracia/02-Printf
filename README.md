@@ -58,5 +58,3 @@ Once you have compiled the files, you can execute it as follows:
 ```
 ./a.out [or ./file resulted from the execution]
 ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
